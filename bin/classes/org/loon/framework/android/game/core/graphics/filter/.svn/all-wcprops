@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter
+END
+ImageFilterExecute.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterExecute.class
+END
+ImageFilterFactory$GreenFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$GreenFilter.class
+END
+ImageFilterFactory$PinkFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$PinkFilter.class
+END
+ImageFilterFactory$GrayFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$GrayFilter.class
+END
+ImageFilterFactory$AllRedFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$AllRedFilter.class
+END
+ImageFilterFactory$YellowInvertFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$YellowInvertFilter.class
+END
+ImageFilterFactory$AllBlackFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$AllBlackFilter.class
+END
+ImageFilterFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory.class
+END
+ImageFilterFactory$AllWhiteFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$AllWhiteFilter.class
+END
+ImageFilterFactory$RedFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$RedFilter.class
+END
+ImageFilterFactory$SwapFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$SwapFilter.class
+END
+ImageFilterFactory$YellowFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$YellowFilter.class
+END
+ImageFilterFactory$MagentaFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$MagentaFilter.class
+END
+ImageFilterFactory$RedBlueSwapFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$RedBlueSwapFilter.class
+END
+ImageExpandFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageExpandFilter.class
+END
+ImageFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilter.class
+END
+ImageFilterFactory$BlackWhiteFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$BlackWhiteFilter.class
+END
+ImageFilterType.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterType.class
+END
+ImageFilterFactory$WhiteFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$WhiteFilter.class
+END
+ImageFilterFactory$BlueFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$BlueFilter.class
+END
+ImageFilterFactory$PsychedeliaFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$PsychedeliaFilter.class
+END
+ImageFilterFactory$RateFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/filter/ImageFilterFactory$RateFilter.class
+END

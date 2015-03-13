@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/map/tmx
+END
+TMXProperty.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/map/tmx/TMXProperty.class
+END
+TMXTiledMap$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/map/tmx/TMXTiledMap$1.class
+END
+TMXLayer$Light.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/map/tmx/TMXLayer$Light.class
+END
+TMXTileSet.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/map/tmx/TMXTileSet.class
+END
+TMXTileGroup.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/map/tmx/TMXTileGroup.class
+END
+TMXLayer.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/map/tmx/TMXLayer.class
+END
+TMXTile.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/map/tmx/TMXTile.class
+END
+TMXTiledMap.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/map/tmx/TMXTiledMap.class
+END

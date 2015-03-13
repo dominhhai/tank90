@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store
+END
+RecordStoreNotOpenException.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store/RecordStoreNotOpenException.class
+END
+RecordStoreSqlLite$RecordStoreSqliteOpenHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store/RecordStoreSqlLite$RecordStoreSqliteOpenHelper.class
+END
+InvalidRecordIDException.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store/InvalidRecordIDException.class
+END
+Session.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store/Session.class
+END
+RecordFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store/RecordFilter.class
+END
+RecordListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store/RecordListener.class
+END
+RecordEnumeration.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store/RecordEnumeration.class
+END
+Session$Record.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store/Session$Record.class
+END
+RecordStoreNotFoundException.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store/RecordStoreNotFoundException.class
+END
+RecordStoreSqlLite.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store/RecordStoreSqlLite.class
+END
+RecordStore.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store/RecordStore.class
+END
+RecordStoreFullException.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store/RecordStoreFullException.class
+END
+RecordStoreSqlLiteEnumeration.class
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store/RecordStoreSqlLiteEnumeration.class
+END
+RecordComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store/RecordComparator.class
+END
+RecordStoreException.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/store/RecordStoreException.class
+END

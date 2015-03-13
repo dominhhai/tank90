@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/task
+END
+Interrupt.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/task/Interrupt.class
+END
+Process.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/task/Process.class
+END
+Process$ThreadRun.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/task/Process$ThreadRun.class
+END
+Synchronized.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/task/Synchronized.class
+END
+Task.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/task/Task.class
+END
+TaskExecuter.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/task/TaskExecuter.class
+END
+TaskExecuter$TaskList.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/task/TaskExecuter$TaskList.class
+END

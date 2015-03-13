@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms
+END
+RecordStoreNotOpenException.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms/RecordStoreNotOpenException.class
+END
+RecordStoreSqlLite$RecordStoreSqliteOpenHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms/RecordStoreSqlLite$RecordStoreSqliteOpenHelper.class
+END
+InvalidRecordIDException.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms/InvalidRecordIDException.class
+END
+Session.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms/Session.class
+END
+RecordFilter.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms/RecordFilter.class
+END
+RecordListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms/RecordListener.class
+END
+RecordEnumeration.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms/RecordEnumeration.class
+END
+Session$Record.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms/Session$Record.class
+END
+RecordStoreNotFoundException.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms/RecordStoreNotFoundException.class
+END
+RecordStoreSqlLite.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms/RecordStoreSqlLite.class
+END
+RecordStore.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms/RecordStore.class
+END
+RecordStoreFullException.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms/RecordStoreFullException.class
+END
+RecordStoreSqlLiteEnumeration.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms/RecordStoreSqlLiteEnumeration.class
+END
+RecordComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms/RecordComparator.class
+END
+RecordStoreException.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/rms/RecordStoreException.class
+END

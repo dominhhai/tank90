@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui
+END
+Canvas.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui/Canvas.class
+END
+Command.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui/Command.class
+END
+Graphics.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui/Graphics.class
+END
+Image.class
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui/Image.class
+END
+CommandListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui/CommandListener.class
+END
+Display.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui/Display.class
+END
+Font.class
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui/Font.class
+END

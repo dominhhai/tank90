@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl
+END
+GLEx$Clip.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/GLEx$Clip.class
+END
+LSTRFont.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/LSTRFont.class
+END
+LTexturePack.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/LTexturePack.class
+END
+LTexture.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/LTexture.class
+END
+LTexturePack$Node.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/LTexturePack$Node.class
+END
+LSTRTexture$Exist.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/LSTRTexture$Exist.class
+END
+GLU.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/GLU.class
+END
+AndroidGLU.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/AndroidGLU.class
+END
+GLLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/GLLoader.class
+END
+LTexture$Format.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/LTexture$Format.class
+END
+GLGradation.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/GLGradation.class
+END
+GLBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/GLBase.class
+END
+LTextures.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/LTextures.class
+END
+GLEx.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/GLEx.class
+END
+LTextures$Ref.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/LTextures$Ref.class
+END
+LTextureList$LTextureObject.class
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/LTextureList$LTextureObject.class
+END
+GLColor.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/GLColor.class
+END
+LTexturePack$Entry.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/LTexturePack$Entry.class
+END
+GL.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/GL.class
+END
+GL10.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/GL10.class
+END
+GL11.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/GL11.class
+END
+GLEx$Direction.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/GLEx$Direction.class
+END
+AndroidGL10.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/AndroidGL10.class
+END
+AndroidGL11.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/AndroidGL11.class
+END
+LSTRTexture.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/LSTRTexture.class
+END
+LTextureData.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/LTextureData.class
+END
+LTextureList.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/LTextureList.class
+END
+LTextureList$ImageData.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/graphics/opengl/LTextureList$ImageData.class
+END

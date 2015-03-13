@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui/game
+END
+Layer.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui/game/Layer.class
+END
+TiledLayer.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui/game/TiledLayer.class
+END
+TiledLayerBackup.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui/game/TiledLayerBackup.class
+END
+GameCanvas.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui/game/GameCanvas.class
+END
+Sprite.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui/game/Sprite.class
+END
+Trans.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui/game/Trans.class
+END
+LayerManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/bin/classes/javax/microedition/lcdui/game/LayerManager.class
+END

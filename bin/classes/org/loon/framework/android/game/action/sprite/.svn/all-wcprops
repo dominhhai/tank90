@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite
+END
+ISprite.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/ISprite.class
+END
+AnimationHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/AnimationHelper.class
+END
+Animation.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Animation.class
+END
+Label.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Label.class
+END
+Sprite$Filter.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Sprite$Filter.class
+END
+Cycle$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Cycle$1.class
+END
+Cycle$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Cycle$2.class
+END
+Blood$Drop.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Blood$Drop.class
+END
+Number.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Number.class
+END
+Sprites.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Sprites.class
+END
+Strap.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Strap.class
+END
+Arrow.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Arrow.class
+END
+WaitSprite.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/WaitSprite.class
+END
+RotateHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/RotateHelper.class
+END
+Animation$AnimationFrame.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Animation$AnimationFrame.class
+END
+GIFDecoder$GifFrame.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/GIFDecoder$GifFrame.class
+END
+StepSprite.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/StepSprite.class
+END
+Picture.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Picture.class
+END
+Bind.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Bind.class
+END
+Sprites$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Sprites$1.class
+END
+Cycle$Progress.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Cycle$Progress.class
+END
+Sprites$SpriteListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Sprites$SpriteListener.class
+END
+Mask.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Mask.class
+END
+GIFDecoder.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/GIFDecoder.class
+END
+SpriteSheet.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/SpriteSheet.class
+END
+Cycle.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Cycle.class
+END
+Blood.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Blood.class
+END
+WaitAnimation.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/WaitAnimation.class
+END
+Bind$BindObject.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Bind$BindObject.class
+END
+GIFAnimation.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/GIFAnimation.class
+END
+Sprite.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/Sprite.class
+END
+StatusBar.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/StatusBar.class
+END
+TouchSprite.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/TouchSprite.class
+END

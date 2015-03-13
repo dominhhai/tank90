@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect
+END
+ScrollEffect.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/ScrollEffect.class
+END
+FractionEffect$Fraction.class
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/FractionEffect$Fraction.class
+END
+FadeEffect.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/FadeEffect.class
+END
+ArcEffect.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/ArcEffect.class
+END
+FractionEffect.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/FractionEffect.class
+END
+PShadowEffect.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/PShadowEffect.class
+END
+DayNightEffect.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/DayNightEffect.class
+END
+OutEffect.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/OutEffect.class
+END
+SnowKernel.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/SnowKernel.class
+END
+SmashEffect$Smash.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/SmashEffect$Smash.class
+END
+SmashEffect.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/SmashEffect.class
+END
+IKernel.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/IKernel.class
+END
+RainKernel.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/RainKernel.class
+END
+SmashEffect$SmashType.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/SmashEffect$SmashType.class
+END
+SmashEffect$Explosion.class
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/SmashEffect$Explosion.class
+END
+FreedomEffect.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/FreedomEffect.class
+END
+ZoomEffect.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/ZoomEffect.class
+END
+ScaleEffect.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/ScaleEffect.class
+END
+PetalKernel.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/PetalKernel.class
+END
+CrossEffect.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/CrossEffect.class
+END
+SplitEffect.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/action/sprite/effect/SplitEffect.class
+END

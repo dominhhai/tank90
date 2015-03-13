@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/resource
+END
+CSVReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/resource/CSVReader.class
+END
+LPKResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/resource/LPKResource.class
+END
+LPKTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/resource/LPKTable.class
+END
+ClassRes.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/resource/ClassRes.class
+END
+LPKHeader.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/resource/LPKHeader.class
+END
+SDRes.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/resource/SDRes.class
+END
+CSVTable$CSVItem.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/resource/CSVTable$CSVItem.class
+END
+CSVTable.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/resource/CSVTable.class
+END
+DataRes.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/resource/DataRes.class
+END
+RemoteRes.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/resource/RemoteRes.class
+END
+Resource.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/resource/Resource.class
+END
+FileRes.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/resource/FileRes.class
+END
+ZIPResource.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/resource/ZIPResource.class
+END
+Resources.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/2/trunk/bin/classes/org/loon/framework/android/game/core/resource/Resources.class
+END
